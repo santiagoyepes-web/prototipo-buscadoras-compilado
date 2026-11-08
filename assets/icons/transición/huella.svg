@@ -1,0 +1,15 @@
+<svg class="huella-svg-draw" viewBox="0 0 200 260" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#FFEB99" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path class="huella-ridge" d="M 65 24 C 90 16, 110 16, 135 24" />
+    <path class="huella-ridge" d="M 42 44 C 75 24, 125 24, 158 44" />
+    <path class="huella-ridge" d="M 26 74 C 58 36, 142 36, 174 74" />
+    <path class="huella-ridge" d="M 18 112 C 36 52, 164 52, 182 112" />
+    <path class="huella-ridge" d="M 18 154 C 22 82, 62 56, 100 56 C 138 56, 178 82, 180 156" />
+    <path class="huella-ridge" d="M 26 192 C 26 112, 58 72, 100 72 C 142 72, 172 112, 168 190" />
+    <path class="huella-ridge" d="M 38 220 C 36 138, 62 88, 100 88 C 138 88, 158 138, 152 216" />
+    <path class="huella-ridge" d="M 54 238 C 48 158, 68 104, 100 104 C 132 104, 146 158, 136 232" />
+    <path class="huella-ridge" d="M 70 246 C 64 176, 76 120, 100 120 C 124 120, 132 174, 120 242" />
+    <path class="huella-ridge" d="M 86 248 C 80 190, 84 138, 100 138 C 116 138, 118 188, 106 244" />
+    <path class="huella-ridge" d="M 96 236 C 94 196, 94 156, 100 156 C 106 156, 106 184, 100 206" />
+  </g>
+</svg>

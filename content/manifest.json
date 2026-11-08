@@ -1,0 +1,28 @@
+{
+  "ui": {
+    "huella": "icons/transicion/huella.png",
+    "sonidoHuella": "audio/pulso-huella.wav"
+  },
+  "seccion1": {
+    "mapa": "map/mapa.svg",
+    "nodos": ["icons/seccion1/incognita_n1.svg", "icons/seccion1/ley_n2.svg", "icons/seccion1/mapa2_n3.png", "icons/seccion1/voces_n4.svg"],
+    "audioEntrada": "audio/ambiente-seccion1.wav"
+  },
+  "seccion2": {
+    "contenedor": ["icons/seccion2/carpeta.png"],
+    "indicios": ["icons/seccion2/bota.svg", "icons/seccion2/lupa.jpeg", "icons/seccion2/huella_icon.png", "icons/seccion2/pala.svg", "icons/seccion2/paloma.png"],
+    "audioEntrada": "audio/ambiente-seccion2.wav"
+  },
+  "seccion3": {
+    "pares": {
+      "par-a": ["icons/seccion3/libro_verde_par_a1.png", "icons/seccion3/cana_par_a2.svg"],
+      "par-b": ["icons/seccion3/libro_azul_par_b1.png", "icons/seccion3/canoa_par_b2.svg"],
+      "par-c": ["icons/seccion3/libro_amarillo_par_c1.png", "icons/seccion3/mural_par_c2.svg"]
+    },
+    "audioEntrada": "audio/ambiente-seccion3.wav"
+  },
+  "seccion4": {
+    "imagen": "puzzle/madres_puzzle.jpg",
+    "audioEntrada": "audio/ambiente-seccion4.wav"
+  }
+}
